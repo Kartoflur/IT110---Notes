@@ -1,0 +1,50 @@
+.heading{
+	text-align: center;
+	margin-top: 5rem;
+}
+
+li{
+	list-style: none;
+}
+
+.notes_list{
+	padding: 2%;
+}
+
+.note{
+	margin: 1%;
+}
+
+.pageheader nav ul{
+	margin-left: 90px;
+}
+
+#btn_signout{
+	margin-right: 145px;
+}
+
+#login_container{
+	margin-top: 135px;
+	width: 480px;
+	height: 320px;
+	border:1px solid;
+}
+
+#login_container .form-group{
+	margin-top: 10px;
+}
+
+#register_container{
+	margin-top: 60px;
+	width: 480px;
+	height: 480px;
+	border: 1px solid;
+}
+
+#signin-text{
+	text-decoration: underline;
+}
+
+#account_created{
+	background-color: #90EE90;
+}
